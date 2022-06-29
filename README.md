@@ -54,6 +54,10 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/100/000000/bootstrap.png" width="80"/>
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png" width="80"/>
   <img src="https://img.icons8.com/plasticine/100/000000/bash.png" width="80"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-color-tal-revivo.png" width="80"/>
+  <img src="https://img.icons8.com/color/100/000000/latex.png" width="80"/>
+  <img src="https://img.icons8.com/color/100/000000/markdown.png" width="80"/>
+  <img src="https://img.icons8.com/color/100/000000/tensorflow.png" width="80"/>
 </p>
 <br>
 <br>  
