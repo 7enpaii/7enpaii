@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="100"/>
 </p>
 <br>
 <br>  
