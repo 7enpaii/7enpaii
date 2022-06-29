@@ -39,16 +39,21 @@ Here are some ideas to get you started:
 </p>
 
 
-## logos:
+## Languages and Tools:
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="100"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="80"/>
+  <img src="https://img.icons8.com/color/100/000000/python--v1.png" width="80"/>
+  <img src="https://img.icons8.com/color/100/000000/dart.png" width="80"/>
+  <img src="https://img.icons8.com/fluency/100/000000/copyright.png" width="80"/>
+  <img src="https://img.icons8.com/color/100/000000/flutter.png" width="80"/>
+  <img src="https://img.icons8.com/color/100/000000/django.png" width="80"/>
+  <img src="https://img.icons8.com/color/100/000000/git.png" width="80"/>
+  <img src="https://img.icons8.com/color/100/000000/firebase.png" width="80"/>
+  <img src="https://img.icons8.com/color/100/000000/html-5--v1.png" width="80"/>
+  <img src="https://img.icons8.com/color/100/000000/css3.png" width="80"/>
+  <img src="https://img.icons8.com/color/100/000000/bootstrap.png" width="80"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png" width="80"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/bash.png" width="80"/>
 </p>
 <br>
 <br>  
