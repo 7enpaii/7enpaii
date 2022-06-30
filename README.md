@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img 
-	src="https://i.pinimg.com/originals/c7/c6/f7/c7c6f7e8b3506ea46261ab7b55fc9faf.gif"
+	src="https://i.pinimg.com/originals/82/de/83/82de83fb86c54aa5783bbb6ca3b26938.gif"
 	style="border-radius: 20px;"
-	width="400"/>
+	width="600"
+	height="300"/>
 </div>
 
 ## social media badges:
