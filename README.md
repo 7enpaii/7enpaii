@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## 🚀 Languages ~ Tools ~ Frameworks 🚀:
+## 🚀 Languages ~ Tools ~ Frameworks 🚀
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="80"/>
   <img src="https://img.icons8.com/color/100/000000/python--v1.png" width="80"/>
@@ -58,9 +58,9 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/100/000000/latex.png" width="80"/>
   <img src="https://img.icons8.com/color/100/000000/markdown.png" width="80"/>
   <img src="https://img.icons8.com/color/100/000000/tensorflow.png" width="80"/>
-  <img src="https://www.django-rest-framework.org/img/logo.png" width="80"/>
+  <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" width="80"/>
   <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" width="80"/>
-  <img src="https://gunicorn.org/images/logo.jpg" width="80"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gunicorn_logo_icon_170045.png" width="80"/>
   <img src="https://img.icons8.com/glyph-neue/100/000000/github.png" width="80"/>
   <img src="https://img.icons8.com/color/100/000000/figma--v1.png" width="80"/>
   <img src="https://img.icons8.com/fluency/100/000000/node-js.png" width="80"/>
