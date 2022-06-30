@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
   <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=071A2C" alt="Telegram"/>
   </a>
   <!--<a href="https://instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
