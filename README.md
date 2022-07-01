@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## 🚀 I use: 🚀
+## 🚀 Languages ~ Frameworks ~ Tools 🚀
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="80"/>
   <img src="https://img.icons8.com/color/100/000000/python--v1.png" width="80"/>
