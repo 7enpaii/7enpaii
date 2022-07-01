@@ -13,15 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">
-  Welcome to 7enpaii profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Wellcome%20to%207enpaii%20profile;Full-stack%20mobile%20app%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;Love%20sport&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%207enpaii%20profile;Full-stack%20mobile%20app%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;Love%20sport&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 	</a>
 </p>
 
@@ -34,19 +30,16 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  <a href="https://t.me/senpaiSP" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=071A2C" alt="Telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/amirozdocoder" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  <!--<a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=071A2C" alt="Telegram"/>
-  </a>
-  <!--<a href="https://instagram.com/" target="_blank">
+  <a href="https://instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
   <a href="https://medium.com/" target="_blank">
@@ -55,7 +48,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## 🚀 Languages ~ Tools ~ Frameworks 🚀
+## 🚀 I use: 🚀
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="80"/>
   <img src="https://img.icons8.com/color/100/000000/python--v1.png" width="80"/>
