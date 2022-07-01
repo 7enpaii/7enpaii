@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img 
-	src="https://i.pinimg.com/originals/82/de/83/82de83fb86c54aa5783bbb6ca3b26938.gif"
+	src="https://c.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif"
 	style="border-radius: 20px;"
 	width="600"
 	height="300"/>
